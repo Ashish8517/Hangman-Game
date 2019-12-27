@@ -1,0 +1,6 @@
+
+mydb = mysql.connector.connect(
+    host="remotemysql.com",
+    user="NON1wuL7Sf",
+    passwd="kEFFpgWwFZ",
+    database="NON1wuL7Sf")
